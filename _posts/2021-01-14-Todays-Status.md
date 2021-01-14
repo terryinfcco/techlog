@@ -7,6 +7,14 @@ categories: jekyll github
 permalink: status-January-14-2021
 # background: '/img/posts/01.jpg'
 ---
+**Back to Minima**
+
+I had a problem getting the site to build under Garth so I'm back to minima. The repo is techlog and I'm serving it on github. 
+
+I've also reinstalled tiddlywiki and dokuwiki on the terryinfcco.com site. 
+
+And I fixed index.html to reflect all that.
+
 **Another New Jekyll Blog**
 
 I've created a blog using the Garth theme. It's nice and simple and I'm happy with it. I can't get it to work on github, I'm guessing because it's not an officially supported github jekyll theme. But I've uploaded it to terryinfcco.com, pointed the index.html navigation to it, and created a shell script to upload new posts, etc to it. 
