@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Status January 14, 2021"
-subtitle: "Pretty sure I'm making progress."
 date: 2021-01-14 11:08:13 -0400
 categories: jekyll github
 permalink: status-January-14-2021
-# background: '/img/posts/01.jpg'
 ---
 **Back to Minima**
 
