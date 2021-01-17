@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Working on Coder Dojo January 14, 2021"
-date: 2021-01-14 11:08:13 -0400
+title: "Working on Coder Dojo January 15, 2021"
+date: 2021-01-15 11:08:13 -0400
 categories: webdev tiddlywiki
-permalink: Coder-Dojo-January-14-2021
+permalink: Coder-Dojo-January-15-2021
 ---
 **Coder Dojo Build Your Own WebSite**
 
